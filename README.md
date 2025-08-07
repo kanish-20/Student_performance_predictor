@@ -94,6 +94,3 @@ student-performance-predictor/
 └── requirements.txt
 ```
 
-## Screenshots
-
-![WhatsApp Image 2025-08-07 at 14 03 08 (1)](https://github.com/user-attachments/assets/d78fe6ee-79b0-4f28-8f29-c063320900ac)
