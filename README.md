@@ -46,6 +46,24 @@ The model is trained on a custom dataset with the following features:
 - `Python`
 - `Joblib` (for saving and loading models)
 
+ ## Project structure
+
+```
+student-performance-predictor/
+├── app.py
+├── train_model.py
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── student_data.csv
+├── scaler.pkl
+├── model.pkl
+├── label_encoder.pkl
+├── target_encoder.pkl
+└── requirements.txt
+```
+
 ### Usage:
 
 1. User enters input data via form
@@ -75,22 +93,11 @@ python app.py           # Start the Flask server
 ```
 http://127.0.0.1:5000/
 ```
+![WhatsApp Image 2025-08-07 at 14 03 08](https://github.com/user-attachments/assets/24c31a37-042c-4f28-89f8-68c8324466d6)
+![WhatsApp Image 2025-08-07 at 14 03 08 (2)](https://github.com/user-attachments/assets/18772355-d0df-4bbf-aee5-448d1db4adbb)
+![WhatsApp Image 2025-08-07 at 14 03 08 (1)](https://github.com/user-attachments/assets/8c816336-d8cb-4d16-9aff-8fe2ed8f2b80)
 
-## Project structure
 
-```
-student-performance-predictor/
-├── app.py
-├── train_model.py
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-├── student_data.csv
-├── scaler.pkl
-├── model.pkl
-├── label_encoder.pkl
-├── target_encoder.pkl
-└── requirements.txt
-```
+
+
 
