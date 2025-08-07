@@ -1,0 +1,101 @@
+study_hours,attendance,internal_marks,parent_education,result
+2.6,71,41,Not Graduate,Pass
+5.7,78,13,Graduate,Pass
+4.5,88,20,Not Graduate,Pass
+3.8,91,26,Graduate,Pass
+1.4,100,47,Not Graduate,Pass
+1.4,71,33,Graduate,Fail
+0.8,43,14,Graduate,Fail
+5.3,69,43,Not Graduate,Pass
+3.8,76,15,Graduate,Pass
+4.4,62,31,Not Graduate,Pass
+0.6,78,20,Graduate,Fail
+5.8,84,25,Not Graduate,Pass
+5.1,54,42,Graduate,Pass
+1.7,82,18,Not Graduate,Fail
+1.5,68,15,Graduate,Fail
+1.5,75,25,Not Graduate,Fail
+2.2,52,38,Graduate,Fail
+3.4,71,12,Not Graduate,Fail
+2.9,46,29,Not Graduate,Fail
+2.1,98,45,Not Graduate,Pass
+3.9,90,28,Graduate,Pass
+1.3,61,35,Not Graduate,Fail
+2.1,67,12,Graduate,Fail
+2.5,41,28,Not Graduate,Fail
+3.0,81,29,Graduate,Pass
+4.8,84,41,Not Graduate,Pass
+1.6,96,16,Graduate,Pass
+3.3,92,50,Graduate,Pass
+3.8,45,42,Not Graduate,Fail
+0.8,67,49,Graduate,Pass
+3.8,67,48,Graduate,Pass
+1.4,83,27,Not Graduate,Fail
+0.9,83,49,Graduate,Pass
+5.7,59,10,Graduate,Pass
+5.8,69,20,Graduate,Pass
+4.9,50,37,Not Graduate,Pass
+2.2,97,34,Graduate,Pass
+1.0,94,32,Not Graduate,Pass
+4.3,67,40,Graduate,Pass
+2.9,64,39,Graduate,Pass
+1.2,78,44,Graduate,Pass
+3.2,72,16,Not Graduate,Fail
+0.7,40,25,Graduate,Fail
+5.5,96,35,Graduate,Pass
+1.9,66,11,Not Graduate,Fail
+4.1,96,10,Graduate,Pass
+2.2,91,21,Not Graduate,Pass
+3.4,52,14,Not Graduate,Fail
+3.5,80,46,Graduate,Pass
+1.5,42,41,Not Graduate,Fail
+5.8,78,18,Graduate,Pass
+4.8,45,50,Not Graduate,Pass
+5.7,47,44,Not Graduate,Pass
+5.4,66,28,Graduate,Pass
+3.8,48,25,Not Graduate,Fail
+5.6,76,12,Not Graduate,Pass
+1.0,72,29,Not Graduate,Fail
+1.6,90,33,Not Graduate,Pass
+0.7,81,42,Not Graduate,Pass
+2.3,83,33,Graduate,Pass
+2.6,63,20,Not Graduate,Fail
+2.0,54,17,Graduate,Fail
+5.1,98,45,Not Graduate,Pass
+2.5,93,47,Graduate,Pass
+2.0,71,49,Graduate,Pass
+3.5,71,29,Not Graduate,Pass
+1.3,63,44,Not Graduate,Fail
+4.9,80,34,Not Graduate,Pass
+0.9,91,44,Graduate,Pass
+5.9,88,34,Not Graduate,Pass
+4.7,88,38,Graduate,Pass
+1.6,97,27,Graduate,Pass
+0.5,91,27,Graduate,Pass
+5.0,51,11,Not Graduate,Fail
+4.4,78,44,Not Graduate,Pass
+4.5,41,25,Graduate,Fail
+4.7,42,50,Graduate,Pass
+0.9,88,45,Not Graduate,Pass
+2.5,76,42,Graduate,Pass
+1.1,88,13,Not Graduate,Fail
+5.2,95,42,Graduate,Pass
+3.9,56,23,Not Graduate,Fail
+2.3,98,30,Graduate,Pass
+0.8,88,29,Not Graduate,Fail
+2.2,41,17,Graduate,Fail
+2.3,41,16,Not Graduate,Fail
+4.5,67,12,Not Graduate,Fail
+4.0,93,26,Graduate,Pass
+5.4,62,42,Graduate,Pass
+3.1,76,21,Not Graduate,Fail
+1.2,71,31,Graduate,Fail
+4.4,72,31,Not Graduate,Pass
+4.7,40,39,Graduate,Pass
+3.6,58,47,Not Graduate,Pass
+4.7,41,47,Not Graduate,Pass
+3.2,92,17,Not Graduate,Pass
+3.4,83,36,Not Graduate,Pass
+2.9,65,36,Not Graduate,Pass
+0.6,71,43,Not Graduate,Fail
+1.1,45,30,Graduate,Fail
